@@ -1,4 +1,4 @@
-# CRun
+# RunC
 
 This project is a C program that can execute other C programs dynamically, as requested by the user. The program allows users to easily execute C programs that have already been compiled and are available in the `bin` directory. The source files are located in the `src` directory.
 
